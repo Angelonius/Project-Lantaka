@@ -12,7 +12,7 @@
 		"requiredResource": "Copper",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
+		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack"],
 		"promotions": ["Volley","Extended Range","Indirect Fire"],
 		"hurryCostModifier": 20,
 		"attackSound": "cannon"
@@ -30,7 +30,7 @@
 		"requiredResource": "Copper",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
+		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack"],
 		"promotions": ["Volley","Extended Range","Indirect Fire"],
 		"hurryCostModifier": 20,
 		"attackSound": "cannon"
@@ -48,7 +48,7 @@
 		"requiredResource": "Copper",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
+		"uniques": ["Bonus vs City 200%","No defensive terrain bonus","Must set up to ranged attack"],
 		"promotions": ["Volley","Extended Range","Indirect Fire"],
 		"hurryCostModifier": 20,
 		"attackSound": "cannon"
