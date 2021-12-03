@@ -10,3 +10,5 @@ Much like with Palengke, you need to have one of these mods for it to work:
 
 This mod contains the lantaka, a copper cannon from the Philippines.
 https://en.wikipedia.org/wiki/Lantaka
+
+v.1.1: Updated all units.
