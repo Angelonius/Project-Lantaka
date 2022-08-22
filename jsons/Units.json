@@ -71,4 +71,30 @@
 		"hurryCostModifier": 20,
 		"attackSound": "cannon"
 	},
+	{
+		"name": "Arcabuceros de Pampanga",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Filipinas",
+		"movement": 2,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mappiang Bayani",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Tondo",
+		"movement": 2,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 ]
