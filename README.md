@@ -1,5 +1,5 @@
 # Project-Lantaka
-This Unciv mod adds in a unit for the existing Filipino civs. This was inspired by not-navyblue's Palengke mod.
+This Unciv mod adds in gunpowder units for the existing Filipino civs. This was inspired by not-navyblue's Palengke mod.
 Palengke: https://github.com/not-navyblue/Palengke
 
 Requirements:
@@ -15,3 +15,5 @@ https://en.wikipedia.org/wiki/Lantaka
 v.1.1: Updated all units.
 
 v.1.2: Added in the Lantaka for the Sultanate of Sulu.
+
+v.1.3: Added in the Arcabuceros de Pampanga for Filipinas and the Mappiang Bayani for Tondo.
