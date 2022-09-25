@@ -19,3 +19,5 @@ v.1.1: Updated all units.
 v.1.2: Added in the Lantaka for the Sultanate of Sulu.
 
 v.1.3: Added in the Arcabuceros de Pampanga for Filipinas and the Mappiang Bayani for Tondo.
+
+v.1.4: Updated Sulu's Lantaka alongside the Arcabuceros de Pampanga and the Mappiang Bayani.
