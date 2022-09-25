@@ -18,10 +18,10 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Lantaka (Sultanate of Sulu)",
+		"name": "Lantaka (Sulu)",
 		"unitType": "Siege",
 		"replaces": "Trebuchet",
-		"uniqueTo": "Sultanate of Sulu",
+		"uniqueTo": "Sulu",
 		"movement": 2,
 		"strength": 15,
 		"rangedStrength": 21,
@@ -79,9 +79,7 @@
 		"movement": 2,
 		"strength": 25,
 		"cost": 150,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"requiredTech": "Gunpowder"
 		"attackSound": "shot"
 	},
 	{
@@ -93,8 +91,6 @@
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
 ]
